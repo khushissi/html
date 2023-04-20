@@ -1,0 +1,10 @@
+<html>
+<head>
+ <title> division tag </title>
+</head>
+<body>
+<div>
+<div><h1> ips academy </h1></div>
+</div>
+</body>
+</html>

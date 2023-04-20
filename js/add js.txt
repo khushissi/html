@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>add js</title>
+<body>
+<h1 id="res"</h1>
+</body>
+<script>
+ var a=20;
+ var b=10;
+ var c=a+b;
+document.getElementById("res").inner html="value of c:" +c;
+</script>
+</html>
